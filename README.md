@@ -31,7 +31,8 @@ This library requires Openresty adn redis and following modules:
 Synopsis
 ========
 
-``` server {
+``` 
+server {
       
 	# Standard nginx configuration
 
@@ -116,7 +117,8 @@ To authenticate a user in the gateway it is sufficient to put a Response header 
 
 Example
 
-```{
+```
+{
     "meta": {
         "created": 1448283712000,
         "auth_time": 1461853344933,
