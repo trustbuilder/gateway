@@ -1,7 +1,7 @@
 Name
 ====
 
-gateway - A Policy Enforcment Point written in lua with support of session cookies or api based requests
+TrustBuilder Gateway - A Policy Enforcment Point written in lua with support of session cookies or api based requests
 
 Table of Contents
 =================
